@@ -41,7 +41,7 @@ const SideBar = ({ isContactPage }) => {
   return (
     <>
       <Headroom>
-        <div className="h-[15vh] flex justify-between items-center py-6 md:py-4 px-7 md:px-16 bg-white shadow-md z-50 relative">
+        <div className="h-[15vh] flex justify-between items-center py-6 md:py-4 px-7 md:px-24 bg-white shadow-md z-50 relative">
           <div className="flex justify-center items-center gap-6">
             <svg
               className="h-14 w-14"

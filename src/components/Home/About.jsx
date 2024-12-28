@@ -16,7 +16,7 @@ const About = () => {
               About Pranavi PEB Construction
               </p>
               <p className='text-2xl mt-4 w-full md:w-[90%] text-justify'>This is the space to introduce visitors to the business or brand. Briefly explain who's behind it, what it does and what makes it unique. Share its core values and what this site has to offer. <br /> This is the space to introduce visitors to the business or brand. Briefly explain who's behind it, what it does and what makes it unique. Share its core values and what this site has to offer.This is the space to introduce visitors to the business or brand. Briefly explain who's behind it, what it does and what makes it unique. Share its core values and what this site has to offer.</p>
-              <button className="flex justify-left items-center gap-4 mt-8">
+              <button className="w-fit flex justify-left items-center gap-4 mt-8 hover:underline">
                 <IoIosArrowRoundForward className="h-12 w-12 font-extralight bg-black text-white p-1" />{" "}
                 LEARN MORE
               </button>
