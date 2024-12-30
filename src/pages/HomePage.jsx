@@ -4,8 +4,6 @@ import Features from "../components/Home/Features";
 import Services from "../components/Home/Services";
 import Projects from "../components/Home/Projects";
 import About from "../components/Home/About";
-// import Testimonial from "../components/Home/Testimonial";
-// import Contact from "../components/Contact";
 
 const HomePage = () => {
   return (
@@ -15,9 +13,6 @@ const HomePage = () => {
       <Features />
       <Projects />
       <About />
-      {/* <Testimonial />
-      <Contact text={"Get a quote for your upcoming project"}/> */}
-      
     </>
   );
 };
